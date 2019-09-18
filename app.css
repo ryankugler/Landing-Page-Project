@@ -1,0 +1,107 @@
+
+body {
+    /* font-family: 'Khula', sans-serif; */
+    font-family: 'Darker Grotesque', sans-serif;
+    /* background-image: url(https://images.unsplash.com/42/kMh0QXZMQOmsIiQRQIlW_14701556285_aacce9be47_o.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80); */
+    background-image: url(https://images.unsplash.com/photo-1500417148159-68083bd7333a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80);
+    background-size: cover;
+    font-weight: 400;
+    margin-top: 100px;
+}
+
+.AboutMe {
+    background-color: rgba(0, 0, 0, 0.4);
+    color: rgba(255, 255, 255, 0.8);
+
+}
+
+.ryanPic {
+    width: 14em;
+    height: 17.4em;
+    border: solid #a2a2a3 3px;
+    margin-top: 2em;
+    margin-bottom: 2em;
+
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #a2a2a3;
+    background-image: -webkit-linear-gradient(left, #a2a2a3, white, #a2a2a3);
+    background-image: -moz-linear-gradient(left, #a2a2a3, white, #a2a2a3);
+    background-image: -ms-linear-gradient(left, #a2a2a3, white, #a2a2a3);
+    background-image: -o-linear-gradient(left, #a2a2a3, white, #a2a2a3);
+    }
+
+    .navbar.scrolled {
+        background: #9576BA;
+        transition: background 200ms;
+    }
+
+#mainNavbar .nav-link {
+        color: white;
+        font-size: 1.1em;
+}
+    
+#mainNavbar .nav-link:hover {
+     color: #D4D0CD;
+}
+#mainNavbar .navbar-default .navbar-brand a {
+    color: #E0D6D4;
+}
+
+.card-img-top {
+width: cover;
+height: 250px;
+}
+
+#card1 {
+
+    background-color: #47505F;
+}
+
+#card2 {
+
+    background-color: #47505F;
+}
+
+#card3 {
+
+    background-color: #47505F;
+}
+
+h1 {
+    font-weight: 300;
+}
+
+p {
+    font-size: 1.23rem;
+}
+
+h3 {
+
+    color: rgba(255, 255, 255, 0.85);
+    font-weight: 400;
+    
+}
+
+#footer {
+    background-color: rgba(255, 255, 255, 0.85);
+}
+
+.footerHeader {
+    color: black;  
+}
+
+#navbarBrand {
+    color: white;
+}
+
+.fa-linkedin {
+    color: black;
+}
+
+footer {
+    padding: 4rem 4rem 4rem 4rem;
+}
